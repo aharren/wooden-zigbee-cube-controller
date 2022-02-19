@@ -16,15 +16,19 @@
 
 ![](readme-assets/cube-3.png)
 
-## New Inlay
+## New Inlay Design
 
 ![](readme-assets/cube-4.png)
 
-## Assembled Inlay
+## Inlay Print
 
 ![](readme-assets/cube-5.png)
 
-## Final Cube, Oiled
+## Assembled Inlay
 
 ![](readme-assets/cube-6.png)
+
+## Final Cube, Oiled
+
+![](readme-assets/cube-7.png)
 
